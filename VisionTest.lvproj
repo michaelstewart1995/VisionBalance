@@ -1802,6 +1802,7 @@ DirectoryIndex index.htm
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="VisionTest_FPGATarget_FPGAMain_jZlYpbXtgx0.lvbitx" Type="Document" URL="../FPGA Bitfiles/VisionTest_FPGATarget_FPGAMain_jZlYpbXtgx0.lvbitx"/>
+			<Item Name="ServoAngleMapper.vi" Type="VI" URL="../support/ServoAngleMapper.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="VisionBalanceBuild" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
